@@ -1,0 +1,11 @@
+C:\dev\practice.problems\Week1PracticeProblems\DetectCapital\bin\Debug\netcoreapp2.1\DetectCapital.deps.json
+C:\dev\practice.problems\Week1PracticeProblems\DetectCapital\bin\Debug\netcoreapp2.1\DetectCapital.runtimeconfig.json
+C:\dev\practice.problems\Week1PracticeProblems\DetectCapital\bin\Debug\netcoreapp2.1\DetectCapital.runtimeconfig.dev.json
+C:\dev\practice.problems\Week1PracticeProblems\DetectCapital\bin\Debug\netcoreapp2.1\DetectCapital.dll
+C:\dev\practice.problems\Week1PracticeProblems\DetectCapital\bin\Debug\netcoreapp2.1\DetectCapital.pdb
+C:\dev\practice.problems\Week1PracticeProblems\DetectCapital\obj\Debug\netcoreapp2.1\DetectCapital.csprojAssemblyReference.cache
+C:\dev\practice.problems\Week1PracticeProblems\DetectCapital\obj\Debug\netcoreapp2.1\DetectCapital.csproj.CoreCompileInputs.cache
+C:\dev\practice.problems\Week1PracticeProblems\DetectCapital\obj\Debug\netcoreapp2.1\DetectCapital.AssemblyInfoInputs.cache
+C:\dev\practice.problems\Week1PracticeProblems\DetectCapital\obj\Debug\netcoreapp2.1\DetectCapital.AssemblyInfo.cs
+C:\dev\practice.problems\Week1PracticeProblems\DetectCapital\obj\Debug\netcoreapp2.1\DetectCapital.dll
+C:\dev\practice.problems\Week1PracticeProblems\DetectCapital\obj\Debug\netcoreapp2.1\DetectCapital.pdb

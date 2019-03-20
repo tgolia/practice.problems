@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\practice.problems\\Week1PracticeProblems\\DetectCapital\\DetectCapital.csproj",
-      "projectName": "DetectCapital",
-      "projectPath": "C:\\dev\\practice.problems\\Week1PracticeProblems\\DetectCapital\\DetectCapital.csproj",
+      "projectUniqueName": "C:\\dev\\practice.problems\\Week1PracticeProblems\\ReverseArray\\ReverseArray.csproj",
+      "projectName": "ReverseArray",
+      "projectPath": "C:\\dev\\practice.problems\\Week1PracticeProblems\\ReverseArray\\ReverseArray.csproj",
       "packagesPath": "C:\\Users\\travis.golia\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\practice.problems\\Week1PracticeProblems\\DetectCapital\\obj\\",
+      "outputPath": "C:\\dev\\practice.problems\\Week1PracticeProblems\\ReverseArray\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,11 @@
+C:\dev\practice.problems\Week1PracticeProblems\ValidatePalindrome\bin\Debug\netcoreapp2.1\ValidatePalindrome.deps.json
+C:\dev\practice.problems\Week1PracticeProblems\ValidatePalindrome\bin\Debug\netcoreapp2.1\ValidatePalindrome.runtimeconfig.json
+C:\dev\practice.problems\Week1PracticeProblems\ValidatePalindrome\bin\Debug\netcoreapp2.1\ValidatePalindrome.runtimeconfig.dev.json
+C:\dev\practice.problems\Week1PracticeProblems\ValidatePalindrome\bin\Debug\netcoreapp2.1\ValidatePalindrome.dll
+C:\dev\practice.problems\Week1PracticeProblems\ValidatePalindrome\bin\Debug\netcoreapp2.1\ValidatePalindrome.pdb
+C:\dev\practice.problems\Week1PracticeProblems\ValidatePalindrome\obj\Debug\netcoreapp2.1\ValidatePalindrome.csprojAssemblyReference.cache
+C:\dev\practice.problems\Week1PracticeProblems\ValidatePalindrome\obj\Debug\netcoreapp2.1\ValidatePalindrome.csproj.CoreCompileInputs.cache
+C:\dev\practice.problems\Week1PracticeProblems\ValidatePalindrome\obj\Debug\netcoreapp2.1\ValidatePalindrome.AssemblyInfoInputs.cache
+C:\dev\practice.problems\Week1PracticeProblems\ValidatePalindrome\obj\Debug\netcoreapp2.1\ValidatePalindrome.AssemblyInfo.cs
+C:\dev\practice.problems\Week1PracticeProblems\ValidatePalindrome\obj\Debug\netcoreapp2.1\ValidatePalindrome.dll
+C:\dev\practice.problems\Week1PracticeProblems\ValidatePalindrome\obj\Debug\netcoreapp2.1\ValidatePalindrome.pdb

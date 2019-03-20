@@ -40,7 +40,7 @@ namespace ConsoleApp1
 
         public static string RemoveNonalphanumericCharsAndConvertToLower(string str)
         {
-            Regex rgx = new Regex("[^a-zA-Z0-9]");
+            Regex rgx = new Regex("[^a-zA-Z]");
             return rgx.Replace(str, "").ToLower();
         }
         public static Boolean IsPalindrome(string str)
@@ -59,8 +59,9 @@ namespace ConsoleApp1
             {
                 reversed += str[i];
             }
-            Console.WriteLine(reversed);
             return reversed;
         }
+
+        // edge case for symbols
     }
 }

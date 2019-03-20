@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\travis.golia\\source\\repos\\Week1PracticeProblems\\ValidatePalindrome\\ValidatePalindrome.csproj",
+      "projectUniqueName": "C:\\dev\\practice.problems\\Week1PracticeProblems\\ValidatePalindrome\\ValidatePalindrome.csproj",
       "projectName": "ValidatePalindrome",
-      "projectPath": "C:\\Users\\travis.golia\\source\\repos\\Week1PracticeProblems\\ValidatePalindrome\\ValidatePalindrome.csproj",
+      "projectPath": "C:\\dev\\practice.problems\\Week1PracticeProblems\\ValidatePalindrome\\ValidatePalindrome.csproj",
       "packagesPath": "C:\\Users\\travis.golia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\travis.golia\\source\\repos\\Week1PracticeProblems\\ValidatePalindrome\\obj\\",
+      "outputPath": "C:\\dev\\practice.problems\\Week1PracticeProblems\\ValidatePalindrome\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

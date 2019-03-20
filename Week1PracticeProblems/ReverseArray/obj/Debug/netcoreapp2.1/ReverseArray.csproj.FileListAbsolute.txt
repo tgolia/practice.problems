@@ -1,0 +1,11 @@
+C:\dev\practice.problems\Week1PracticeProblems\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.deps.json
+C:\dev\practice.problems\Week1PracticeProblems\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.runtimeconfig.json
+C:\dev\practice.problems\Week1PracticeProblems\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.runtimeconfig.dev.json
+C:\dev\practice.problems\Week1PracticeProblems\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.dll
+C:\dev\practice.problems\Week1PracticeProblems\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.pdb
+C:\dev\practice.problems\Week1PracticeProblems\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.csprojAssemblyReference.cache
+C:\dev\practice.problems\Week1PracticeProblems\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.csproj.CoreCompileInputs.cache
+C:\dev\practice.problems\Week1PracticeProblems\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.AssemblyInfoInputs.cache
+C:\dev\practice.problems\Week1PracticeProblems\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.AssemblyInfo.cs
+C:\dev\practice.problems\Week1PracticeProblems\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.dll
+C:\dev\practice.problems\Week1PracticeProblems\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.pdb
